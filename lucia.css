@@ -1,0 +1,42 @@
+body{
+  background-image: url("fondoLucia.jpg");
+  background-size: cover;
+}
+
+.p1{
+  margin-left: 400px;
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+.parrafo1{
+  margin-top: -290px;
+}
+
+.l1{
+  margin-top: 30px;
+  border-radius: 70px;
+  margin-left: 100px;
+}
+
+.l2{
+  margin-top: 100px;
+  border-radius: 70px;
+    margin-left: 100px;
+}
+
+h1{
+  margin-left: 500px;
+  color:white;
+}
+
+p{
+  width: 600px;
+  margin-left: 600px;
+  color: white;
+  font-size: 20px;
+}
+
+.parrafo2{
+  margin-top: -320px;
+}

@@ -1,0 +1,69 @@
+@media only screen and (max-width: 380px){
+    .q_social_icon_holder .fa-stack {
+        width: 1.2em;
+        height: 1.2em;
+        line-height: 1.2em;
+    }
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1024px){
+   nav.main_menu > ul > li > a, .header_bottom_right_widget_holder{
+       padding: 0 10px;
+   }
+
+   .header_bottom {
+       padding: 0;
+   }
+}
+
+.testimonial_image_holder {
+   margin: 0 0 30px;
+   border-radius: 150px;
+}
+
+.q_team {
+   background-color: transparent;
+}
+
+.q_team.info_description_below_image .q_team_image_holder{
+   text-align: center;
+}
+.q_team .q_team_image img{
+   width: auto;
+}
+
+.q_team .q_team_description_inner {
+   padding: 0 0px;
+}
+
+.q_team.info_description_below_image .q_team_image_holder:hover img{
+   -webkit-transform: none;
+   transform: none;
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button {
+   width: 108px;
+   height: 108px;
+}
+
+.qode_video_box .qode_video_image .qode_video_box_button_arrow{
+   border-left-width: 30px;
+   border-top-width: 18px;
+   border-bottom-width: 18px;
+   left: 54%;
+}
+
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea{
+   text-align: center;
+}
+
+@media only screen and (max-width: 1200px){
+   nav.main_menu > ul > li > a{
+       padding: 0 18px;
+   }
+}
+
+#back_to_top span i {
+   font-size: 18px;
+   line-height: 46px;
+}
